@@ -10,7 +10,7 @@ let loggedin = false  // boolean data type
 //boolean => true/false
 //null => stand alone value //empty //object hai (output) type hai
 //underfined => // value sign nahi h // type hai undefined 
-//symbol => unique
+//symbol => unique hai
 
 
 //object
